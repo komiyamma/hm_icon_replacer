@@ -5,3 +5,5 @@
 ![Hidemaru 8.00](https://img.shields.io/badge/Hidemaru-v8.00-6479ff.svg)
 
 マクロから秀丸のアイコンを変更するためのコンポーネント
+
+https://秀丸マクロ.net/?page=nobu_tool_hm_icon_replacer

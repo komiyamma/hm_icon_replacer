@@ -1,0 +1,15 @@
+﻿/*
+ * HmIconReplacer v1.0.0.2
+ * This codes is licensed under CC0 1.0 Universal
+ * 秀丸 v8.00以上
+ */
+
+#DLL = loaddll(currentmacrodirectory + "\\HmIconReplacer.dll");
+
+// ChangeIcon で アイコン変更
+// ResetIcon で デフォルトに戻す
+
+#_ = dllfuncw(#DLL, "ChangeIcon", currentmacrodirectory + "\\docker.ico");
+// #_ = dllfuncw(#DLL, "ResetIcon");
+
+freedll(#DLL);
