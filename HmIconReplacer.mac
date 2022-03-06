@@ -9,7 +9,7 @@
 // ChangeIcon で アイコン変更
 // ResetIcon で デフォルトに戻す
 
-#_ = dllfuncw(#DLL, "ChangeIcon", currentmacrodirectory + "\\docker.ico");
+#_ = dllfuncw(#DLL, "ChangeIcon", currentmacrodirectory + "\\sample.ico");
 // #_ = dllfuncw(#DLL, "ResetIcon");
 
 freedll(#DLL);
