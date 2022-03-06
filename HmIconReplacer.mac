@@ -7,9 +7,9 @@
 #DLL = loaddll(currentmacrodirectory + "\\HmIconReplacer.dll");
 
 // ChangeIcon で アイコン変更
-// ResetIcon で デフォルトに戻す
-
 #_ = dllfuncw(#DLL, "ChangeIcon", currentmacrodirectory + "\\sample.ico");
+
+// ResetIcon で デフォルトに戻す
 // #_ = dllfuncw(#DLL, "ResetIcon");
 
 freedll(#DLL);
