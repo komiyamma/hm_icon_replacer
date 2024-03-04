@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\repogitory\\hm_icon_replacer\\HmIconReplacer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FDACED52-39DD-4412-8776-6E2BE2AD2D95}|HmIconReplacer\\HmIconReplacer.vcxproj|G:\\repogitory\\hm_icon_replacer\\HmIconReplacer\\HmIconReplacer\\HmIconReplacer.rc||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FDACED52-39DD-4412-8776-6E2BE2AD2D95}|HmIconReplacer\\HmIconReplacer.vcxproj|solutionrelative:HmIconReplacer\\HmIconReplacer.rc||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDACED52-39DD-4412-8776-6E2BE2AD2D95}|HmIconReplacer\\HmIconReplacer.vcxproj|G:\\repogitory\\hm_icon_replacer\\HmIconReplacer\\HmIconReplacer\\dllmain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FDACED52-39DD-4412-8776-6E2BE2AD2D95}|HmIconReplacer\\HmIconReplacer.vcxproj|solutionrelative:HmIconReplacer\\dllmain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HmIconReplacer.rc",
+              "DocumentMoniker": "G:\\repogitory\\hm_icon_replacer\\HmIconReplacer\\HmIconReplacer\\HmIconReplacer.rc",
+              "RelativeDocumentMoniker": "HmIconReplacer\\HmIconReplacer.rc",
+              "ToolTip": "G:\\repogitory\\hm_icon_replacer\\HmIconReplacer\\HmIconReplacer\\HmIconReplacer.rc",
+              "RelativeToolTip": "HmIconReplacer\\HmIconReplacer.rc",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAcwF8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-03-04T21:38:04.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "dllmain.cpp",
+              "DocumentMoniker": "G:\\repogitory\\hm_icon_replacer\\HmIconReplacer\\HmIconReplacer\\dllmain.cpp",
+              "RelativeDocumentMoniker": "HmIconReplacer\\dllmain.cpp",
+              "ToolTip": "G:\\repogitory\\hm_icon_replacer\\HmIconReplacer\\HmIconReplacer\\dllmain.cpp",
+              "RelativeToolTip": "HmIconReplacer\\dllmain.cpp",
+              "ViewState": "AQIAAAUAAAAAAAAAAADwvx0AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-04T21:26:29.961Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
