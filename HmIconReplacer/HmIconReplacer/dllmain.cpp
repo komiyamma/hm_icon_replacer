@@ -36,11 +36,11 @@ void ChangeHidemaruIcon(const HICON hIcon)
 {
 	HWND hwnd = FindWindow(L"Hidemaru32Class", NULL);
 	if (hwnd) {
-		//Change both icons to the same icon handle.
+		// 両方のアイコンを同じアイコンハンドルに変更する。
 		SendMessage(hwnd, WM_SETICON, ICON_SMALL, (LPARAM)hIcon);
 		SendMessage(hwnd, WM_SETICON, ICON_BIG, (LPARAM)hIcon);
 
-		//This will ensure that the application icon gets changed too.
+		// これにより、アプリケーションのアイコンも変更されます。
 		SendMessage(GetWindow(hwnd, GW_OWNER), WM_SETICON, ICON_SMALL, (LPARAM)hIcon);
 		SendMessage(GetWindow(hwnd, GW_OWNER), WM_SETICON, ICON_BIG, (LPARAM)hIcon);
 	}
